@@ -28,7 +28,7 @@ A sample of published works:
 - [Snowflake Northstar Workshops – Toronto, Denver, NYC, Chicago](https://www.snowflake.com/northstar-builder-workshops/)
 - dbt Coalesce 2023 – From data to insights: A crash course on data transformations using Snowflake and dbt Cloud
 - PyData Global 2023 - Build & deploy a Snowflake Native Application using Python
-- Data Council Austin – Build AI Apps with Llama 2 in 10 Minutes with Snowflake Cortex
 - Snowflake keynote delivery at Snowflake Data Cloud World Tour 2023 (Austin, Chicago)
+- Data Council Austin 2024 – Build AI Apps with Llama 2 in 10 Minutes with Snowflake Cortex
 - Podcast with Kim Scott – [Two ways to define respect](https://radicalrespectbook.com/podcast-season-2/episode-3-two-ways-to-define-respect)
  

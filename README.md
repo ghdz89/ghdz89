@@ -6,11 +6,12 @@
 
 A sample of published works:
 
-**Guides**
+**Guides and educational programs**
 
-- [https://quickstarts.snowflake.com/guide/getting-started-django-snowflake/]
-- [https://docs.snowflake.com/en/developer-guide/snowflake-python-api/overview-tutorials]
-- [https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cli/]
+- [Snowflake Northstar](https://www.snowflake.com/en/developers/northstar/)
+- [Getting Started with Django as a backend for Snowflake](https://quickstarts.snowflake.com/guide/getting-started-django-snowflake/)
+- [Getting Started with Snowflake Python APIs](https://docs.snowflake.com/en/developer-guide/snowflake-python-api/overview-tutorials)
+- [Getting Started with Snowflake CLI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cli/)
 
 **Videos**
 

@@ -23,10 +23,12 @@ A sample of published works:
 - [Live - Developer Experience with APIs & Tooling](https://www.youtube.com/watch?v=99hyhuj31ro)
 - [How to Use Snowflake as a Backend for Your Django App](https://www.youtube.com/watch?v=Wdck7hBco0U)
 
-  **Speaking engagements**
+**Speaking engagements**
 
-  - dbt Coalesce 2023 – From data to insights: A crash course on data transformations using Snowflake and dbt Cloud
-  - PyData Global 2023 - Build & deploy a Snowflake Native Application using Python
-  - Data Council Austin – Build AI Apps with Llama 2 in 10 Minutes with Snowflake Cortex
-  - Snowflake keynote delivery at Snowflake Data Cloud World Tour 2023 (Austin, Chicago)
-  - [Snowflake Northstar Workshops – Toronto, Denver, NYC, Chicago](https://www.snowflake.com/northstar-builder-workshops/)
+- [Snowflake Northstar Workshops – Toronto, Denver, NYC, Chicago](https://www.snowflake.com/northstar-builder-workshops/)
+- dbt Coalesce 2023 – From data to insights: A crash course on data transformations using Snowflake and dbt Cloud
+- PyData Global 2023 - Build & deploy a Snowflake Native Application using Python
+- Data Council Austin – Build AI Apps with Llama 2 in 10 Minutes with Snowflake Cortex
+- Snowflake keynote delivery at Snowflake Data Cloud World Tour 2023 (Austin, Chicago)
+- Podcast with Kim Scott – [Two ways to define respect](https://radicalrespectbook.com/podcast-season-2/episode-3-two-ways-to-define-respect)
+ 

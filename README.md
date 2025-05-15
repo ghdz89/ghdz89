@@ -8,7 +8,7 @@ A sample of published works:
 
 **Guides and educational programs**
 
-- [Snowflake Northstar](https://www.snowflake.com/en/developers/northstar/)
+- [Snowflake Northstar](https://www.snowflake.com/en/developers/northstar/) (25k+ enrolled learners)
 - [Introduction to Modern Data Engineering with Snowflake](https://www.coursera.org/learn/data-engineering-snowflake/) 4.8/5 ⭐️
 - [Advanced Data Engineering with Snowflake](https://www.coursera.org/learn/advanced-data-engineering-with-snowflake?specialization=snowflake-data-engineering)
 - [Snowflake Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/snowflake-data-engineering)
